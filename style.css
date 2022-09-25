@@ -1,0 +1,29 @@
+@import url(https://use.fontawesome.com/releases/v6.2.0/css/all.css);
+
+html {
+  background-color: #ebf2fa;
+  height: 100%;
+}
+
+#container {
+  height: 500px;
+  width: 600px;
+  margin: 10px auto;
+  text-align: center;
+  border: 10px ridge #f4602f;
+}
+
+#image {
+  width: 100%;
+  height: 100%;
+}
+
+.btn {
+  background: transparent;
+  border: 2px ridge #f4602f;
+  border-radius: 6px;
+  font-size: 20px;
+  margin: 20px auto;
+  padding: 10px;
+  width: 30%;
+}
