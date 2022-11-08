@@ -1,7 +1,7 @@
 # Image-Slider
 Cute dogs slider
 
-Try here -> https://Image-Slider.rosendobrev10.repl.co
+Try here -> https://rosendobrev10.github.io/Image-Slider/
 
-![image](https://user-images.githubusercontent.com/104829819/192157350-1afb978b-6320-44d3-a903-30b858d6d92a.png)
+![Dogs Slider](https://user-images.githubusercontent.com/104829819/200525290-869c5033-2529-4e30-a489-87de99681b17.png)
 
